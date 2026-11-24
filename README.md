@@ -5,49 +5,51 @@
 
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0ea5e9&height=220&section=header&text=Luis%20Castillo&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=COMPUTER%20ENGINEER%20%7C%20WEB%20%7C%20BLOCKCHAIN%20%7C%20AI&descAlignY=55&descSize=18&descColor=bfdbfe&animation=fadeIn" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0ea5e9&height=210&section=header&text=Luis%20Castillo&fontSize=76&fontColor=ffffff&fontAlignY=35&desc=COMPUTER%20ENGINEER%20%7C%20DATA%20ANALYTICS%20%26%20BI%20%7C%20.NET%20%26%20PYTHON&descAlignY=57&descSize=16&descColor=bfdbfe&animation=fadeIn" width="100%" alt="Header" />
 </div>
 
-<!-- HERO TEXT (Asymmetry & Focus) -->
+<!-- HERO TEXT -->
 <div align="center">
   <br>
-  <img src="https://img.shields.io/badge/Professional_Profile-0B1120?style=for-the-badge&logo=windowsterminal&logoColor=3B82F6" alt="Professional Profile" />
+  <img src="https://img.shields.io/badge/Hybrid_Profile-0B1120?style=for-the-badge&logo=windowsterminal&logoColor=3B82F6" alt="Hybrid Profile" />
   <br><br>
-  <i>Computer Engineer focused on web development, cybersecurity, blockchain, and Artificial Intelligence.<br>
-  This space reflects my professional evolution, continuous learning, and the creation of purpose-driven projects.</i>
+  <i>B.Sc. in Computer Engineering (TEC) combining <b>Data Analytics & Business Intelligence</b> with <b>Software Engineering (.NET & Python)</b>.<br>
+  Focused on transforming raw data into actionable KPIs and building maintainable, purpose-driven digital solutions.</i>
   <br><br>
-  <kbd>Objective: Build simple, functional, and maintainable digital solutions.</kbd>
+  <kbd>Heredia, Costa Rica &nbsp;|&nbsp; English B2 &nbsp;|&nbsp; Spanish Native</kbd>
   <br><br>
 </div>
 
 <!-- WAVE DIVIDER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0ea5e9&height=30&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0ea5e9&height=28&section=footer" width="100%" />
 </div>
 
-<!-- 3 COLUMN TECH STACK (Depth & Grid breaking) -->
+<!-- 3 COLUMN TECH STACK -->
 <div align="center">
 <table width="100%" style="border-collapse: collapse; border: none;">
 <tr style="border: none;">
 <td width="33%" valign="top" style="border: none;">
   <div align="center">
-    <img src="https://img.shields.io/badge/Backend_%26_Core-0B1120?style=flat-square&logo=dotnet&logoColor=3B82F6" /><br><br>
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,python&theme=dark" height="42" /><br><br>
-    <kbd>ASP.NET Core</kbd> &nbsp; <kbd>.NET 9</kbd>
+    <img src="https://img.shields.io/badge/Data_%26_BI-0B1120?style=flat-square&logo=powerbi&logoColor=F2C811" /><br><br>
+    <img src="https://skillicons.dev/icons?i=python,mysql&theme=dark" height="40" /><br><br>
+    <kbd>Power BI</kbd> &nbsp; <kbd>DAX</kbd> &nbsp; <kbd>Power Query</kbd><br>
+    <kbd>Pandas</kbd> &nbsp; <kbd>Scikit-learn</kbd> &nbsp; <kbd>SQL Server</kbd>
   </div>
 </td>
 <td width="33%" valign="top" style="border: none;">
   <div align="center">
-    <img src="https://img.shields.io/badge/Frontend_%26_Web-0B1120?style=flat-square&logo=react&logoColor=3B82F6" /><br><br>
-    <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,js&theme=dark" height="42" /><br><br>
-    <kbd>React</kbd> &nbsp; <kbd>Blazor</kbd> &nbsp; <kbd>WebRTC</kbd>
+    <img src="https://img.shields.io/badge/Backend_%26_APIs-0B1120?style=flat-square&logo=dotnet&logoColor=3B82F6" /><br><br>
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,python,docker&theme=dark" height="40" /><br><br>
+    <kbd>ASP.NET Core</kbd> &nbsp; <kbd>.NET 9</kbd><br>
+    <kbd>SignalR</kbd> &nbsp; <kbd>REST APIs</kbd>
   </div>
 </td>
 <td width="33%" valign="top" style="border: none;">
   <div align="center">
-    <img src="https://img.shields.io/badge/Data_%26_Security-0B1120?style=flat-square&logo=linux&logoColor=3B82F6" /><br><br>
-    <img src="https://skillicons.dev/icons?i=mysql,git,github,docker&theme=dark" height="42" /><br><br>
-    <kbd>Blockchain</kbd> &nbsp; <kbd>AI</kbd>
+    <img src="https://img.shields.io/badge/Frontend_%26_Tools-0B1120?style=flat-square&logo=react&logoColor=0EA5E9" /><br><br>
+    <img src="https://skillicons.dev/icons?i=react,js,html,css,git,github&theme=dark" height="40" /><br><br>
+    <kbd>Gradio</kbd> &nbsp; <kbd>Bootstrap</kbd> &nbsp; <kbd>Figma</kbd>
   </div>
 </td>
 </tr>
@@ -56,33 +58,51 @@
 
 <!-- REVERSE WAVE DIVIDER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0ea5e9&height=30&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0ea5e9&height=28&section=header" width="100%" />
 </div>
 
-<!-- 2 COLUMN PROJECTS & STATS -->
+<!-- 2 COLUMN FEATURED PROJECTS & STATS -->
 <table width="100%" style="border-collapse: collapse; border: none;">
 <tr style="border: none;">
-<td width="55%" valign="top" style="border: none; padding-right: 10px;">
+<td width="57%" valign="top" style="border: none; padding-right: 10px;">
   <div align="left">
-    <img src="https://img.shields.io/badge/Featured_Projects-0B1120?style=for-the-badge&logo=github&logoColor=3B82F6" alt="Projects" />
+    <img src="https://img.shields.io/badge/Featured_Public_Projects_(Data_%26_BI)-0B1120?style=for-the-badge&logo=github&logoColor=3B82F6" alt="Public Projects" />
     <br><br>
-    <b>► ChupiApp - Multiplayer</b><br>
-    <sub>Interactive real-time web app with waiting rooms, game modes, and video communication (WebRTC).</sub><br>
-    <img src="https://img.shields.io/badge/ASP.NET_Core-0B1120?style=flat-square&logo=dotnet&logoColor=3B82F6" />
-    <img src="https://img.shields.io/badge/SignalR-0B1120?style=flat-square&logo=csharp&logoColor=0EA5E9" />
+
+    <b>► <a href="https://github.com/luis-Tec/bank-churn-analytics-powerbi">Bank Customer Churn & Retention BI</a></b><br>
+    <sub>End-to-end banking churn analysis (10k customers, 20.37% churn, $185.59M at-risk balance) with 2-view Power BI executive report & strategic brief.</sub><br>
+    <img src="https://img.shields.io/badge/Power_BI-0B1120?style=flat-square&logo=powerbi&logoColor=F2C811" />
+    <img src="https://img.shields.io/badge/DAX-0B1120?style=flat-square" />
+    <img src="https://img.shields.io/badge/EDA-0B1120?style=flat-square" />
     <br><br>
-    <b>► Football Alerts Bot</b><br>
-    <sub>.NET 9 Worker Service that evaluates sports metrics in real-time and notifies via Telegram.</sub><br>
-    <img src="https://img.shields.io/badge/.NET_9-0B1120?style=flat-square&logo=dotnet&logoColor=3B82F6" />
-    <img src="https://img.shields.io/badge/Telegram_API-0B1120?style=flat-square&logo=telegram&logoColor=0EA5E9" />
+
+    <b>► <a href="https://github.com/luis-Tec/sales-eda-gradio-app">Interactive Sales EDA & Cleaning App</a></b><br>
+    <sub>Modular Python + Gradio web app for automated data quality checks, ISO 8601 cleaning, IQR outlier detection, 6 Matplotlib charts & CSV export.</sub><br>
+    <img src="https://img.shields.io/badge/Python-0B1120?style=flat-square&logo=python&logoColor=3776AB" />
+    <img src="https://img.shields.io/badge/Pandas-0B1120?style=flat-square&logo=pandas&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gradio-0B1120?style=flat-square" />
     <br><br>
-    <b>► DOFUS Calculator</b><br>
-    <sub>MVC Platform that consumes external APIs to calculate dynamic crafting profitability.</sub><br>
-    <img src="https://img.shields.io/badge/MVC_Pattern-0B1120?style=flat-square&logo=csharp&logoColor=3B82F6" />
-    <img src="https://img.shields.io/badge/REST_APIs-0B1120?style=flat-square&logo=json&logoColor=0EA5E9" />
+
+    <b>► <a href="https://github.com/luis-Tec/ticoshop-churn-segmentation-ml">TicoShop Churn Prediction & Segmentation</a></b><br>
+    <sub>K-Means customer segmentation & Decision Tree churn classifier (86.17% accuracy) with retention action plan.</sub><br>
+    <img src="https://img.shields.io/badge/Scikit--learn-0B1120?style=flat-square&logo=scikitlearn&logoColor=F7931E" />
+    <img src="https://img.shields.io/badge/K--Means-0B1120?style=flat-square" />
+    <br><br>
+
+    <b>► <a href="https://github.com/luis-Tec/coffee-export-kpi-dashboard-powerbi">Coffee Export KPI Dashboard</a></b><br>
+    <sub>Executive Power BI + Power Query + DAX dashboard tracking 2024–2025 sales, net margin & logistics delivery compliance.</sub><br>
+    <img src="https://img.shields.io/badge/Power_BI-0B1120?style=flat-square&logo=powerbi&logoColor=F2C811" />
+    <img src="https://img.shields.io/badge/Power_Query-0B1120?style=flat-square" />
+    <br><br>
+
+    <img src="https://img.shields.io/badge/Software_%26_Automation_(In_Development_/_Private)-0B1120?style=for-the-badge&logo=lock&logoColor=0EA5E9" alt="Private Projects" />
+    <br><br>
+    <sub>• <b>ChupiApp</b> — Real-time multiplayer web app (ASP.NET Core, SignalR, WebRTC)</sub><br>
+    <sub>• <b>BetsBotWorker</b> — .NET 9 Worker Service with Docker & Telegram alerts</sub><br>
+    <sub>• <b>AI Reels Automation Bot</b> — Python pipeline for automated video & script generation</sub>
   </div>
 </td>
-<td width="45%" valign="top" style="border: none; padding-left: 10px;">
+<td width="43%" valign="top" style="border: none; padding-left: 10px;">
   <div align="center">
     <img src="https://img.shields.io/badge/GitHub_Analytics-0B1120?style=for-the-badge&logo=googleanalytics&logoColor=0EA5E9" alt="Statistics" />
     <br><br>
