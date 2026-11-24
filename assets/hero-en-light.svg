@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 250" width="900" height="250" role="img" aria-label="Luis Armando Castillo López">
+  <defs>
+    <linearGradient id="topGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0284C7"/>
+      <stop offset="55%" stop-color="#4F46E5"/>
+      <stop offset="100%" stop-color="#059669"/>
+    </linearGradient>
+    <linearGradient id="sparkFill" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0284C7" stop-opacity="0.32"/>
+      <stop offset="100%" stop-color="#0284C7" stop-opacity="0.0"/>
+    </linearGradient>
+    <pattern id="dotGrid" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.1" fill="#E2E8F0"/>
+    </pattern>
+    <clipPath id="heroClip">
+      <rect x="1" y="1" width="898" height="248" rx="16"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#heroClip)">
+    <rect x="0" y="0" width="900" height="250" fill="#F8FAFC"/>
+    <rect x="0" y="0" width="900" height="250" fill="url(#dotGrid)" opacity="0.65"/>
+    <circle cx="770" cy="40" r="160" fill="#0284C7" opacity="0.10"/>
+    <circle cx="140" cy="230" r="140" fill="#4F46E5" opacity="0.10"/>
+    <rect x="0" y="0" width="900" height="4" fill="url(#topGrad)"/>
+  </g>
+  <rect x="1" y="1" width="898" height="248" rx="16" fill="none" stroke="#D0D7DE" stroke-width="1.2"/>
+
+  <!-- Left column -->
+  <circle cx="40" cy="39" r="4.5" fill="#059669"/>
+  <circle cx="40" cy="39" r="8" fill="#059669" opacity="0.22"/>
+  <text x="56" y="43" font-family="'Cascadia Code', Consolas, 'Courier New', monospace" font-size="10.5" font-weight="600" letter-spacing="0.7" fill="#475569">OPEN TO OPPORTUNITIES · HEREDIA, COSTA RICA · EN B2 / ES NATIVE</text>
+
+  <text x="36" y="88" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="30" font-weight="800" letter-spacing="-0.6" fill="#0F172A">Luis Armando Castillo López</text>
+  <text x="36" y="116" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="600" fill="#0284C7">Computer Engineer  |  Data Analytics &amp; BI  |  .NET &amp; Python</text>
+
+  <text x="36" y="150" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="13" fill="#475569">Bridging Business Intelligence with Software Engineering to turn</text>
+  <text x="36" y="170" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="13" fill="#475569">raw operational data into clear KPIs and maintainable systems.</text>
+
+  <rect x="36" y="194" width="504" height="30" rx="8" fill="#F1F5F9" stroke="#E2E8F0" stroke-width="1"/>
+  <text x="48" y="213" font-family="'Cascadia Code', Consolas, 'Courier New', monospace" font-size="10.5" font-weight="600" fill="#1E293B">B.Sc. Computer Engineering (TEC)  ·  Data Science 360h (INCOEX)  ·  CPIC</text>
+
+  <!-- Right Hybrid Telemetry Panel -->
+  <rect x="572" y="24" width="298" height="202" rx="13" fill="#FFFFFF" stroke="#D0D7DE" stroke-width="1.2"/>
+
+  <!-- Mini-panel 1: Data & BI -->
+  <rect x="586" y="38" width="270" height="82" rx="9" fill="#F1F5F9" stroke="#E2E8F0" stroke-width="1"/>
+  <circle cx="599" cy="53" r="3.5" fill="#0284C7"/>
+  <text x="610" y="57" font-family="'Cascadia Code', Consolas, 'Courier New', monospace" font-size="9.5" font-weight="700" letter-spacing="0.6" fill="#475569">DATA &amp; BI TELEMETRY</text>
+  <text x="598" y="75" font-family="'Cascadia Code', Consolas, 'Courier New', monospace" font-size="11.5" font-weight="700" fill="#0F172A">20.37% Churn  ·  86.17% ML</text>
+  <!-- Sparkline -->
+  <path d="M598 108 L630 101 L662 104 L694 94 L726 97 L758 84 L790 88 L822 72 L844 76 L844 112 L598 112 Z" fill="url(#sparkFill)"/>
+  <path d="M598 108 L630 101 L662 104 L694 94 L726 97 L758 84 L790 88 L822 72 L844 76" fill="none" stroke="#0284C7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="822" cy="72" r="3" fill="#059669"/>
+  <circle cx="844" cy="76" r="2.5" fill="#0284C7"/>
+
+  <!-- Mini-panel 2: Software -->
+  <rect x="586" y="130" width="270" height="82" rx="9" fill="#F1F5F9" stroke="#E2E8F0" stroke-width="1"/>
+  <circle cx="599" cy="145" r="3.5" fill="#4F46E5"/>
+  <text x="610" y="149" font-family="'Cascadia Code', Consolas, 'Courier New', monospace" font-size="9.5" font-weight="700" letter-spacing="0.6" fill="#475569">SOFTWARE ARCHITECTURE</text>
+  <text x="598" y="170" font-family="'Cascadia Code', Consolas, 'Courier New', monospace" font-size="11" fill="#4F46E5">stack<tspan fill="#475569"> = &#123;</tspan><tspan fill="#059669">&quot;ASP.NET Core&quot;</tspan><tspan fill="#475569">, </tspan><tspan fill="#059669">&quot;.NET 9&quot;</tspan><tspan fill="#475569">&#125;</tspan></text>
+  <text x="598" y="188" font-family="'Cascadia Code', Consolas, 'Courier New', monospace" font-size="11" fill="#0284C7">data<tspan fill="#475569">  = [</tspan><tspan fill="#D97706">&quot;Python&quot;</tspan><tspan fill="#475569">, </tspan><tspan fill="#D97706">&quot;Power BI&quot;</tspan><tspan fill="#475569">, </tspan><tspan fill="#D97706">&quot;SQL&quot;</tspan><tspan fill="#475569">]</tspan></text>
+  <text x="598" y="203" font-family="'Cascadia Code', Consolas, 'Courier New', monospace" font-size="9.5" fill="#64748B">// clean architecture · measurable KPIs</text>
+</svg>

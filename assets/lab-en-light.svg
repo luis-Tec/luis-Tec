@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 168" width="900" height="168" role="img" aria-label="Software Lab">
+  <rect x="1" y="1" width="898" height="166" rx="14" fill="#F8FAFC" stroke="#D0D7DE" stroke-width="1.2"/>
+  <!-- Lock icon -->
+  <rect x="22" y="21" width="11" height="9" rx="2" fill="none" stroke="#475569" stroke-width="1.4"/>
+  <path d="M24.5 21 V18.5 A3 3 0 0 1 30.5 18.5 V21" fill="none" stroke="#475569" stroke-width="1.4"/>
+  <text x="41" y="29" font-family="'Cascadia Code', Consolas, 'Courier New', monospace" font-size="10.5" font-weight="700" letter-spacing="0.6" fill="#475569">SOFTWARE &amp; AUTOMATION LAB  ·  PRIVATE REPOSITORIES IN ACTIVE DEVELOPMENT</text>
+  
+  <rect x="20" y="48" width="276" height="102" rx="10" fill="#F1F5F9" stroke="#E2E8F0" stroke-width="1"/>
+  <rect x="20" y="48" width="4" height="102" rx="2" fill="#4F46E5"/>
+  <text x="36" y="71" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="700" fill="#0F172A">ChupiApp</text>
+  <text x="36" y="90" font-family="'Cascadia Code', Consolas, 'Courier New', monospace" font-size="10" font-weight="600" fill="#4F46E5">ASP.NET Core · SignalR · WebRTC</text>
+  <text x="36" y="114" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" fill="#475569">Real-time multiplayer game rooms,</text>
+  <text x="36" y="131" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" fill="#475569">live video &amp; rate-limited hubs.</text>
+  <rect x="312" y="48" width="276" height="102" rx="10" fill="#F1F5F9" stroke="#E2E8F0" stroke-width="1"/>
+  <rect x="312" y="48" width="4" height="102" rx="2" fill="#0284C7"/>
+  <text x="328" y="71" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="700" fill="#0F172A">BetsBotWorker</text>
+  <text x="328" y="90" font-family="'Cascadia Code', Consolas, 'Courier New', monospace" font-size="10" font-weight="600" fill="#0284C7">.NET 9 · Docker · Telegram API</text>
+  <text x="328" y="114" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" fill="#475569">Resilient background worker evaluating</text>
+  <text x="328" y="131" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" fill="#475569">live sports metrics &amp; smart alerts.</text>
+  <rect x="604" y="48" width="276" height="102" rx="10" fill="#F1F5F9" stroke="#E2E8F0" stroke-width="1"/>
+  <rect x="604" y="48" width="4" height="102" rx="2" fill="#059669"/>
+  <text x="620" y="71" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="700" fill="#0F172A">AI Reels Pipeline</text>
+  <text x="620" y="90" font-family="'Cascadia Code', Consolas, 'Courier New', monospace" font-size="10" font-weight="600" fill="#059669">Python · GenAI · GH Actions</text>
+  <text x="620" y="114" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" fill="#475569">Automated short-video pipeline for</text>
+  <text x="620" y="131" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" fill="#475569">script, voiceover &amp; clip rendering.</text>
+</svg>
