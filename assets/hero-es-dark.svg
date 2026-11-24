@@ -29,7 +29,7 @@
   <!-- Left column -->
   <circle cx="40" cy="39" r="4.5" fill="#34D399"/>
   <circle cx="40" cy="39" r="8" fill="#34D399" opacity="0.22"/>
-  <text x="56" y="43" font-family="'Cascadia Code', Consolas, 'Courier New', monospace" font-size="10.5" font-weight="600" letter-spacing="0.7" fill="#8B949E">DISPONIBLE · HEREDIA, COSTA RICA · INGLÉS B2 / ESPAÑOL NATIVO</text>
+  <text x="56" y="43" font-family="'Cascadia Code', Consolas, 'Courier New', monospace" font-size="10.5" font-weight="600" letter-spacing="0.7" fill="#8B949E">DISPONIBLE · COSTA RICA · INGLÉS B2 / ESPAÑOL NATIVO</text>
 
   <text x="36" y="88" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="30" font-weight="800" letter-spacing="-0.6" fill="#F0F6FC">Luis Armando Castillo López</text>
   <text x="36" y="116" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="600" fill="#38BDF8">Ingeniero en Computación  |  Análisis de Datos &amp; BI  |  .NET &amp; Python</text>

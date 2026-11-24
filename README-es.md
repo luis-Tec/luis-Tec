@@ -92,12 +92,4 @@
       <img src="assets/btn-linkedin-dark.svg" height="42" alt="LinkedIn">
     </picture>
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:luis.castillo.lopez.dev@gmail.com">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/btn-email-es-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/btn-email-es-light.svg">
-      <img src="assets/btn-email-es-dark.svg" height="42" alt="Contactar">
-    </picture>
-  </a>
 </p>
