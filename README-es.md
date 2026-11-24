@@ -4,9 +4,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-es-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/hero-es-light.svg">
-    <img src="assets/hero-es-dark.svg" width="100%" alt="Luis Armando Castillo López — Ingeniero en Computación | Análisis de Datos & BI | .NET & Python">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-v2-es-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/hero-v2-es-light.svg">
+    <img src="assets/hero-v2-es-dark.svg" width="100%" alt="Luis Armando Castillo López — Ingeniero en Computación | Análisis de Datos & BI | .NET & Python">
   </picture>
 </p>
 
